@@ -1,0 +1,1 @@
+In this project, my goal is to create a machine-learning model that can categorize various fish species according to their physical characteristics. The training dataset includes a variety of features, including length1, length2, length3, height, and breadth. Based on these measurements, I'll use a classification algorithm to guess the species of fish.
